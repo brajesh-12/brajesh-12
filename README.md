@@ -1,4 +1,14 @@
-## Hi there 👋
+
+**Hi there! 👋**
+
+I am Brajesh Singh, a designer and developer based in India.
+
+I design and build products end-to-end, with a focus on software architecture, interaction, and user experience. I want to build products that can scale without compromising the user's natural flow.
+
+My current tech stack includes React, Express, Node.js, MongoDB, Next.js, JavaScript, and TypeScript. 
+I am constantly expanding my toolkit and plan to add Swift, SwiftUI, and Python in the near future.
+
+I am currently diving deeper into system design and product scaling.
 
 <!--
 **brajesh-12/brajesh-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
